@@ -21,6 +21,9 @@ jobs:
       - run: npm install
       - run: npx quartz build
 
+      - name: Add CNAME
+        run: echo "wiki.swua.kr" > ./public/CNAME
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
