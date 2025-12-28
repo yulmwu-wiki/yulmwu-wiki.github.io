@@ -12,7 +12,7 @@ title: 세명컴퓨터고등학교 싸제 위키에 오신 것을 환영합니�
 >
 > 이름은 위키지만, 기여하려면 아래의 방법 중 하나를 선택하셔야 합니다.
 >
-> - [Github 레포지토리](https://github.com/yulmwu-wiki/yulmwu-wiki.github.io)에 Pull Request 보내기
+> - [Github 레포지토리](https://github.com/yulmwu-wiki/yulmwu-wiki.github.io)에 Pull Request 또는 Issue 보내기
 > - [운영자](https://github.com/yulmwu)에게 직접 연락하기
 >
 > 모두 환영합니다!
