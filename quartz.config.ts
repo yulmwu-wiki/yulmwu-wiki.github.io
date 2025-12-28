@@ -9,14 +9,14 @@ import * as Plugin from './quartz/plugins'
 const config: QuartzConfig = {
 	configuration: {
 		baseUrl: 'wiki.swua.kr',
-		pageTitle: 'Quartz 4',
-		pageTitleSuffix: '',
+		pageTitle: '세명컴고 싸제 위키',
+		pageTitleSuffix: ' | 세명컴퓨터고등학교 싸제 위키',
 		enableSPA: true,
 		enablePopovers: true,
 		analytics: {
 			provider: 'plausible',
 		},
-		locale: 'en-US',
+		locale: 'ko-KR',
 		ignorePatterns: ['private', 'templates', '.obsidian'],
 		defaultDateType: 'modified',
 		theme: {
